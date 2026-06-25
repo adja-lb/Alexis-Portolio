@@ -1,4 +1,4 @@
-# 💼 Alexis-Portolio
+# 💼 Alexis'-Portolio
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
 
 ## 📚 Table of Contents 
@@ -20,7 +20,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 |  Project | Completion Date  | Tools  |Porject Description   
 |---|---|---|---|
-| [8 Week SQL Challeng](https://github.com/adja-lb/8-Week-SQL-Challenge)  |   |PostgreSQL, SQL, DBeaver   |   |
+| [8 Week SQL Challeng](../8-Week-SQL-Challenge)  |   |PostgreSQL, SQL, DBeaver   |   |
 |   |   |   |   |
 |   |   |   |   |
 
